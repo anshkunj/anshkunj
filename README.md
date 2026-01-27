@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Ansh
+## 👋 Hi, I'm anshkunj
 
 I'm a **Python Developer** focused on **automation, scripting, bug fixing, and data processing**.  
 I enjoy turning messy problems into clean, reliable, and efficient Python solutions.
