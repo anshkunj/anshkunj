@@ -17,7 +17,7 @@ Check out my repositories to see practical implementations.
 ### 🛠 Tech Stack
 - Python
 - Git & GitHub
-- REST APIs
+- REST APIs , API Integration
 - Data Processing (JSON / CSV)
 - Linux basics
 
