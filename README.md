@@ -31,7 +31,3 @@ Check out my repositories to see practical implementations.
 - **GitHub:** https://github.com/anshkunj
 - **Fiverr:** https://www.fiverr.com/anshkunj
 - **LinkedIn:** https://linkedin.com/in/anshkunj
-
-<p align="center">
-  <img src="https://github.com/anshkunj" width="1200">
-</p>
