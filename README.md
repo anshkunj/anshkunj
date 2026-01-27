@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Ansh
 
-<!--
-**anshkunj/anshkunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Python Developer** focused on **automation, scripting, bug fixing, and data processing**.  
+I enjoy turning messy problems into clean, reliable, and efficient Python solutions.
 
-Here are some ideas to get you started:
+### 🔧 What I work on
+- Python automation & scripting
+- Bug fixing and debugging
+- JSON / CSV data processing
+- File handling and APIs
+- Code optimization & clean architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+I’ve built multiple real-world Python projects involving automation, APIs, and problem-solving.  
+Check out my repositories to see practical implementations.
+
+### 🛠 Tech Stack
+- Python
+- Git & GitHub
+- REST APIs
+- Data Processing (JSON / CSV)
+- Linux basics
+
+### 📫 Let’s connect
+- **GitHub:** https://github.com/anshkunj
+- **Fiverr:** https://www.fiverr.com/anshkunj
+- **LinkedIn:** https://linkedin.com/in/anshkunj
