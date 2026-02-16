@@ -29,5 +29,7 @@ Check out my repositories to see practical implementations.
 
 ### 📫 Let’s connect
 - **GitHub:** https://github.com/anshkunj
-- **Fiverr:** https://www.fiverr.com/anshkunj
 - **LinkedIn:** https://linkedin.com/in/anshkunj
+- **LeetCode:** https://leetcode.com/u/anshkunj
+- **Fiverr:** https://www.fiverr.com/anshkunj
+- **Freelancer:** https://www.freelancer.com/u/anshkunj
