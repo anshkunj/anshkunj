@@ -31,5 +31,9 @@ Check out my repositories to see practical implementations.
 - **GitHub:** https://github.com/anshkunj
 - **LinkedIn:** https://linkedin.com/in/anshkunj
 - **LeetCode:** https://leetcode.com/u/anshkunj
+- **Devpost:** https://devpost.com/anshkunj
+- **HackerRank:** https://www.hackerrank.com/profile/anshkunj
+- **AtCoder:** https://atcoder.jp/users/anshkunj
+- **Codeforces:** https://codeforces.com/profile/anshkunj
 - **Fiverr:** https://www.fiverr.com/anshkunj
 - **Freelancer:** https://www.freelancer.com/u/anshkunj
