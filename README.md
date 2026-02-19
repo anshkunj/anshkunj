@@ -46,3 +46,16 @@ Check out my repositories to see practical implementations.
 ### 💼 Freelance Profiles
 [![Fiverr](https://img.shields.io/badge/Fiverr-anshkunj-green?style=flat&logo=fiverr)](https://www.fiverr.com/anshkunj)
 [![Freelancer](https://img.shields.io/badge/Freelancer-anshkunj-blue?style=flat&logo=freelancer)](https://www.freelancer.com/u/anshkunj)
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/254417216?v=4" width="110" style="border-radius:50%;" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anshkunj">
+    <img src="https://img.shields.io/badge/GitHub-anshkunj-black?style=flat&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/anshkunj">
+    <img src="https://img.shields.io/badge/LinkedIn-anshkunj-blue?style=flat&logo=linkedin"/>
+  </a>
+</p>
