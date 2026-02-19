@@ -29,7 +29,7 @@ Check out my repositories to see practical implementations.
 
 ---
 
-## [![anshkunj](https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4)](https://anshkunj.github.io/Portfolio)
+## [![anshkunj](https://avatars.githubusercontent.com/u/anshkunj?v=4)](https://anshkunj.github.io/Portfolio)
 
 ### 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-anshkunj-black?style=flat&logo=github)](https://github.com/anshkunj)
