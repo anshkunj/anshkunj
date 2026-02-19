@@ -29,7 +29,18 @@ Check out my repositories to see practical implementations.
 
 ---
 
-## [![anshkunj](https://avatars.githubusercontent.com/u/254417216?v=4)](https://anshkunj.github.io/Portfolio)
+<p align="left">
+  <a href="https://anshkunj.github.io/Portfolio" style="text-decoration: none;">
+    <img 
+      src="https://avatars.githubusercontent.com/u/254417216?v=4" 
+      width="40" 
+      style="border-radius: 6px; vertical-align: middle;"
+    />
+    <strong style="margin-left: 8px; font-size: 16px; vertical-align: middle;">
+      anshkunj
+    </strong>
+  </a>
+</p>
 
 ### 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-anshkunj-black?style=flat&logo=github)](https://github.com/anshkunj)
