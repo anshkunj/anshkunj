@@ -46,6 +46,7 @@ Check out my repositories to see practical implementations.
 [![GitHub](https://img.shields.io/badge/GitHub-anshkunj-black?style=flat&logo=github)](https://github.com/anshkunj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshkunj-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshkunj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=flat&logo=google-chrome)](https://anshkunj.github.io/Portfolio)
+[![Discord](https://img.shields.io/badge/Discord-anshkunj-7289DA?style=flat&logo=discord)](https://discord.com/users/1473000023431057461)
 
 ### 🧠 Competitive Programming & Hackathons
 [![LeetCode](https://img.shields.io/badge/LeetCode-anshkunj-orange?style=flat&logo=leetcode)](https://leetcode.com/u/anshkunj)
