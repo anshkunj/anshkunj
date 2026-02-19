@@ -33,7 +33,7 @@ Check out my repositories to see practical implementations.
   <a href="https://anshkunj.github.io/Portfolio" style="text-decoration: none;">
     <img 
       src="https://avatars.githubusercontent.com/u/254417216?v=4" 
-      width="48" 
+      width="64" 
       style="border-radius: 6px; vertical-align: middle;"
     />
     <strong style="margin-left: 8px; font-size: 16px; vertical-align: middle;">
