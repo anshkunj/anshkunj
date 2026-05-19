@@ -2,30 +2,23 @@
   <img src="https://github.com/anshkunj/anshkunj/blob/f70a75ab5809538b3fc44d76df07c36d76b851ae/file_0000000026547208a26cc4d2e2cebe3d%20(1).png" width="1200">
 </p>
 <h1 align="center">anshkunj</h1>
-<p align="center">Python Developer | Automation Engineer | Data Processing & Debugging Specialist 🚀</p>
+<p align="center">Building AI-powered products • Full-stack developer • FastAPI, React, PostgreSQL • Learning in public</p>
 
 # 👋 Hi, I'm anshkunj
 
-I'm a **Python Developer** focused on **automation, scripting, bug fixing, and data processing**.  
-I enjoy turning messy problems into clean, reliable, and efficient Python solutions.
+I build fast, clean web apps using React + FastAPI.:
+- Frontend: React.js, HTML, CSS, JavaScript
+- Backend: FastAPI, Python, REST APIs
+- Deployment: Vercel, Render
+- Version Control: Git, GitHub
 
-## 🔧 What I work on
-- Python automation & scripting
-- Bug fixing and debugging
-- JSON / CSV data processing
-- File handling and APIs
-- Code optimization & clean architecture
 
-## 🚀 Projects
-I’ve built multiple real-world Python projects involving automation, APIs, and problem-solving.  
-Check out my repositories to see practical implementations.
+I'm a full-stack developer focused on building real products — not just code.
 
-## 🛠 Tech Stack
-- Python
-- Git & GitHub
-- REST APIs , API Integration
-- Data Processing (JSON / CSV)
-- Linux basics
+
+
+>Currently open to freelance projects. If you need a landing page, web app, or API built fast and clean — let's talk.
+
 
 ---
 
@@ -45,15 +38,7 @@ Check out my repositories to see practical implementations.
 ### 📫 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-anshkunj-black?style=flat&logo=github)](https://github.com/anshkunj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anshkunj-blue?style=flat&logo=linkedin)](https://linkedin.com/in/anshkunj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=flat&logo=google-chrome)](https://anshkunj.github.io/Portfolio)
 [![Discord](https://img.shields.io/badge/Discord-anshkunj-7289DA?style=flat&logo=discord)](https://discord.com/users/1473000023431057461)
-
-### 🧠 Competitive Programming & Hackathons
-[![LeetCode](https://img.shields.io/badge/LeetCode-anshkunj-orange?style=flat&logo=leetcode)](https://leetcode.com/u/anshkunj)
-[![Codeforces](https://img.shields.io/badge/Codeforces-anshkunj-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/anshkunj)
-[![AtCoder](https://img.shields.io/badge/AtCoder-anshkunj-lightgrey?style=flat)](https://atcoder.jp/users/anshkunj)
-[![HackerRank](https://img.shields.io/badge/HackerRank-anshkunj-brightgreen?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/anshkunj)
-[![Devpost](https://img.shields.io/badge/Devpost-anshkunj-black?style=flat&logo=devpost)](https://devpost.com/anshkunj)
 
 ### 💼 Freelance Profiles
 [![Fiverr](https://img.shields.io/badge/Fiverr-anshkunj-green?style=flat&logo=fiverr)](https://www.fiverr.com/anshkunj)
