@@ -2,7 +2,7 @@
   <img src="https://github.com/anshkunj/anshkunj/blob/f70a75ab5809538b3fc44d76df07c36d76b851ae/file_0000000026547208a26cc4d2e2cebe3d%20(1).png" width="1200">
 </p>
 <h1 align="center">anshkunj</h1>
-<p align="center">Building AI-powered products • Full-stack developer • FastAPI, React, PostgreSQL • Learning in public</p>
+<p align="center">Building AI-powered products • Full-stack developer • FastAPI, React, PostgreSQL • Building in public</p>
 
 # 👋 Hi, I'm anshkunj
 
